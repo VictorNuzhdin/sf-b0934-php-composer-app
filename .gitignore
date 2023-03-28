@@ -1,0 +1,2 @@
+# Environment file with secrets is excluded
+.env_secrets

@@ -1,0 +1,9 @@
+{
+    "name": "devops/docker-lamp-j1cs",
+    "description": "For Skill Factory study project (B9, Task B9.3.4)",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
